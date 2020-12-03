@@ -1,0 +1,7 @@
+{
+    "ignore": [
+      "cache/**/*.json",
+      "services/**/*.js"
+    ]
+  }
+  
